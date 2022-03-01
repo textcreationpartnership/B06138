@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Reverend Dr. Beveridge, an eucharisticon, occasion'd by his seasonable and excellent sermon about restitution, on *St. Luke 19.8. preach'd at St. Laurence's London, Tuesday, March 17. 1690.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06138</idno>
+            <idno type="STC">Wing T1602</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[188]</idno>
+            <idno type="EEBO-CITATION">99886950</idno>
+            <idno type="PROQUEST">ocm99886950</idno>
+            <idno type="VID">181510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181510)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[188])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Reverend Dr. Beveridge, an eucharisticon, occasion'd by his seasonable and excellent sermon about restitution, on *St. Luke 19.8. preach'd at St. Laurence's London, Tuesday, March 17. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Coming by chance into St. Laurence-Kirk,".</note>
+                  <note>On the verso: A copy of a letter sent to the Reverend Dr. Beveridge, upon occasion of the second edition of the paper of remarks upon his sermon about restitution.</note>
+                  <note>P. [2] dated: London, May 2. 1691.</note>
+                  <note>P. [2] of item at A1:1[188] appears following item at A1:1[189] (2 p.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Beveridge, William, 1637-1708 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181510:1" rendition="simple:additions"/>
+            <head>To the Reverend Dr. <hi>BEVERIDGE,</hi> AN <hi>E<g ref="char:V">Ʋ</g>CHARISTICON,</hi> Occaſion'd by his ſeaſonable and excellent Sermon about <hi>Reſtitution,</hi> on <note n="*" place="margin">
+                  <hi>And</hi> Zacheus <hi>ſtood, and ſaid unto th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord, Behold, Lord, the half of my Goods I give to the Poor, and if I have taken any thing from any man by falſe accu<g ref="char:EOLhyphen"/>ſation, I reſtore him fourfold.</hi>
+               </note> St. <hi>Luke</hi> 19. 8. preach'd at St. <hi>Laurence</hi>'s London, <hi>Tueſday,</hi> March 17. 1690.</head>
+            <lg>
+               <l>COming by Chance into St. <hi>Laurence-Kirk,</hi>
+               </l>
+               <l>Where Preachers did of Old <hi>Reſiſtance</hi> Jerk,</l>
+               <l>The prating Reader having made an End,</l>
+               <l>I ſaw your <hi>Rev'rence</hi> on the <hi>Mount</hi> aſcend,</l>
+               <l>Like <hi>Publican-Zacheus,</hi> who, to ſee</l>
+               <l>
+                  <hi>Jeſus</hi> paſs by, climb'd up into the <hi>Tree.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My Thanks, good Sir, I muſt confeſs is due</l>
+               <l>To penitent <hi>Zacheus,</hi> and to You.</l>
+               <l>He by <hi>Example,</hi> You by <hi>Preaching,</hi> taught</l>
+               <l>(And therein ſeas'nably reveal'd the <hi>Thought</hi>
+               </l>
+               <l>Of many Hearts) the <hi>Nature</hi> and <hi>Extent</hi>
+               </l>
+               <l>Of that great Duty of the <hi>Penitent,</hi>
+               </l>
+               <l>Call'd <hi>Reſtitution,</hi> which embalms his <hi>Tears,</hi>
+               </l>
+               <l>Sets him to <hi>Rights,</hi> and pays off all <hi>Arrears:</hi>
+               </l>
+               <l>Procures his <hi>Pardon</hi> from th'offended <hi>God,</hi>
+               </l>
+               <l>Atones his <hi>Vengeance,</hi> and do's charm his <hi>Rod.</hi>
+               </l>
+               <lg>
+                  <l>Pardon <note n="(a)" place="margin">No Pardon without Repentance, and no Repentance without Reſtitution. Dr. <hi>Be<g ref="char:EOLhyphen"/>veridge</hi>'s Sermon on St. <hi>Luke</hi> 19. 8. before<g ref="char:EOLhyphen"/>mention'd.</note> th' <hi>Impenitent</hi> in vain implore,</l>
+                  <l>
+                     <hi>Impenitent</hi> are they that don't <note n="(b)" place="margin">And as ye have hurt the Name of your Neighbour, or otherwiſe hindred him, ſo now intend to <hi>Reſtore</hi> it to him again. For without <hi>Reſtitution,</hi> God accepteth not your Confeſſion, nor yet your Repen<g ref="char:EOLhyphen"/>tance. <hi>Book of Homilies,</hi> Fol. pag. 286. 120 pag. 465.</note> 
+                     <hi>Reſtore</hi>
+                  </l>
+                  <l>To th'wronged Man what was his <note n="(c)" place="margin">And ſo it is ſtill, for <hi>Poſſeſſion</hi> does not take away <hi>Right,</hi> and therefore <hi>Zacheus</hi> emphatically ſays, <hi>My Goods.</hi> Behold, Lord, the half of my Goods I give to the Poor<hi>—My Goods,</hi> i. e. what remains to me after I have reſtor'd what I have unjuſtly taken from another, who has the Right, and not I, though I have the Poſſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſion. And what remains when I have made ſuoh <hi>Reſtitu<g ref="char:EOLhyphen"/>tion,</hi> I may truly call my own.—Dr. <hi>Bev. ut ſupra.</hi>
+                     </note> 
+                     <hi>Own</hi> before.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>If this be true, Sir, then Your <hi>Flock</hi> is damn'd,</l>
+               <l>And every ſwearing <hi>Prieſt</hi> that can be nam'd;</l>
+               <l>Who, to detain unjuſtly, do not dread,</l>
+               <l>The Crown they ſtole from off their <hi>Monarch's Head:</hi>
+               </l>
+               <l>Whom by <hi>falſe Accuſation</hi> they dethron'd,</l>
+               <l>And, as an <hi>Abdicating King,</hi> diſown'd.</l>
+               <l>Tho' <note n="*" place="margin">To abdicate an Office, ſuppoſes a volun<g ref="char:EOLhyphen"/>tary Act, and the conſent of him who quits it: according to <hi>Tully, Saluſt, Livy,</hi> &amp;c.</note> t' <hi>Abdicate</hi> by Force, ſeems, by the <hi>By,</hi>
+               </l>
+               <l>A <hi>Monſtrous Riddle,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nlearned Lye:</hi>
+               </l>
+               <l>Which to <note n="(d)" place="margin">For this cauſe God ſhall ſend them ſtrong deluſion, that they ſhould believe a Lye: That they all might be damned who believed not the Truth, but had plea<g ref="char:EOLhyphen"/>ſure in Unrighteouſneſs, 2 <hi>Theſſ.</hi> 2. 11, 12.</note> believe, a Judgment is on thoſe,</l>
+               <l>Who think't no Sin their Sov'raign to <hi>Depoſe,</hi>
+               </l>
+               <l>
+                  <hi>Reno<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce, Abjure,</hi> Transfer <hi>Allegiance</hi> too:</l>
+               <l>And what cannot a <hi>debauch'd Conſcience</hi> do?</l>
+            </lg>
+            <lg>
+               <l>If <hi>RE<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>TITUTION,</hi> Sir, muſt needs be made;</l>
+               <l>Why not to <hi>Scepters,</hi> as well as to the <hi>Spade?</hi>
+               </l>
+               <l>If to our <hi>Fellow-Subjects</hi> we owe that Care,</l>
+               <l>Much more to <hi>Kings</hi> who God's <hi>Vicegerents</hi> are.</l>
+               <l>Or is it Lawful to defraud the <hi>King,</hi>
+               </l>
+               <l>Whil'ſt we are juſt to every other <hi>Thing?</hi>
+               </l>
+               <l>Is it our Duty to do <hi>Right</hi> to All</l>
+               <l>Except to Him, whom we our <hi>Father</hi> call?</l>
+               <l>Muſt God's Laws be obey'd b'our partial Will,</l>
+               <l>Th' Apoſtle's ſad <note n="(e)" place="margin">In the laſt days perilous times ſhall come, for Men ſhall be lovers of their own ſelves, covetous—diſobedient to Pa<g ref="char:EOLhyphen"/>rents, unthankful, unholy, without Natu<g ref="char:EOLhyphen"/>ral Affection, Truce-breakers, Falſe Accu<g ref="char:EOLhyphen"/>ſers—Fierce, Deſpiſers of thoſe that are Good, Traytors—2 <hi>Tim.</hi> 3. 1, 2, 3, 4. A Text, which 'tis to be wiſht a certain Re<g ref="char:EOLhyphen"/>verend Divine, [Dr. <hi>Sh—ock]</hi> who lately preach'd at <hi>Whitehall,</hi> had gone thorough with.</note> Prediction to fulfill?</l>
+               <l>
+                  <hi>Render to all their Dues,</hi> the Goſpel ſays,</l>
+               <l>Directs to ſtrait, condemns all crooked Ways.</l>
+               <l>
+                  <hi>Reſtore</hi> to th' Wrong'd, and to all Juſtice do,</l>
+               <l>The Voice of <note n="*" place="margin">Lev. 6. 2, 3, 4, 5.</note> 
+                  <hi>Moſes</hi> is, and <note n="(f)" place="margin">Remember the Golden Rule which our Saviour recommends, <hi>Whatſoever ye would that Men,</hi> &amp;c. Dr. <hi>Bev.</hi> ut ſupra.</note> 
+                  <hi>Jeſus</hi> too.</l>
+            </lg>
+            <lg>
+               <l>Go, preach this <hi>Goſpel-Doctrine</hi> through the <hi>Town,</hi>
+               </l>
+               <l>Bid 'em <hi>Reſtore</hi> who do Uſurp the <hi>Crown.</hi>
+               </l>
+               <lg>
+                  <l>The <hi>Man's</hi> 
+                     <note n="(g)" place="margin">If the Man is alive whom ye have wrong'd, make <hi>Reſtitution</hi> to him; or if he is dead, to his Son, or Executor, <hi>&amp;c.</hi>
+                     </note> alive, and too his injur'd <hi>Son,</hi>
+                  </l>
+                  <l>To whom <hi>Reſtore</hi> before the <note n="(h)" place="margin">And I adviſe you to make no delay, make <hi>Reſtitution</hi> before the Sun is ſet. <hi>Id. ibid.</hi>
+                     </note> Setting-Sun,</l>
+                  <l>Or elſe (ſad Fate!) Three <hi>Kingdoms</hi> are undon.</l>
+               </lg>
+               <l>Fill City and Court-Pulpits with the Sound,</l>
+               <l>Cry, <note n="(i)" place="margin">Without Reſtitution to the wrong'd, never expect God's Bleſſing upon you or yours, <hi>&amp;c. Id. ibid.</hi>
+                  </note> 
+                  <hi>RESTIT<g ref="char:V">Ʋ</g>TION,</hi> all the Kingdom round.</l>
+               <l>Fear not, preach, pray (You <hi>Leader</hi> of the <hi>Blind!)</hi>
+               </l>
+               <l>Bewitched <hi>Subjects</hi> to a better Mind.</l>
+               <l>By th' <hi>Exorciſing</hi> Art conjure the <hi>Devil</hi>
+               </l>
+               <l>From Rebel-Hearts, ſtop the impending <hi>Evil.</hi>
+               </l>
+               <l>Bid 'em tranſcribe <hi>Zacheus</hi>'s <note n="(k)" place="margin">Be juſt, and act like honeſt Men, <hi>&amp;c.</hi> follow the Example in the Text, <hi>&amp;c. Id. ib.</hi>
+                  </note> Honeſtie,</l>
+               <l>Leſt they aſcend, not his, but <hi>Haman</hi>'s Tree;</l>
+               <l>(Tho, as <hi>Zacheus,</hi> ſo amply to <hi>Reſtore,</hi>
+               </l>
+               <l>Will make the <hi>Thieves,</hi> and frolick <hi>Lenders,</hi> poor.)</l>
+               <l>Or elſe deſcend into the loweſt <hi>Hell,</hi>
+               </l>
+               <l>Where <hi>Parricides, Robbers</hi> and <hi>Rebels</hi> dwell:</l>
+               <l>For if the <hi>Publican</hi> we do contemn,</l>
+               <l>The <hi>Publican</hi> the <hi>Chriſtian</hi> will condemn.</l>
+               <l>Bid 'em Repent, do Juſtice, and <hi>Reſtore,</hi>
+               </l>
+               <l>Call home the <hi>King,</hi> and then Rebel no more.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:181510:2"/>
+            <head>A Copy of a Letter ſent to the Reverend Dr. <hi>Beveridge,</hi> up<g ref="char:EOLhyphen"/>on Occaſion of the <hi>Second Edition</hi> of the Paper of <hi>Re<g ref="char:EOLhyphen"/>marks</hi> upon his Sermon about <hi>Reſtitution.</hi>
+            </head>
+            <opener>
+               <salute>SIR!</salute>
+            </opener>
+            <p>I Have here ſent You the <hi>Second Edition,</hi> with <hi>Additions,</hi> of the <hi>Paper</hi> with <hi>Remarks</hi> upon your late Sermon about <hi>Reſtitution,</hi> wherein, as in a <hi>Glaſs,</hi> you may ſee your <hi>abominable Hypocriſy,</hi> in preaching up <hi>Reſtitution</hi> to the wrong'd, and that upon pain of <hi>Damnation,</hi> and yet you your ſelf can receive and enter upon the <hi>Right</hi> and <hi>Poſſeſſion</hi> of <hi>another,</hi> an <hi>Innocent, Con<g ref="char:EOLhyphen"/>ſcientious</hi> 
+               <note n="*" place="margin">Dr. <hi>Tho. Ken,</hi> Lord Biſhop of <hi>Bath</hi> and <hi>Wells.</hi>
+               </note> 
+               <hi>Biſhop</hi> of our <hi>Church,</hi> (yet in <hi>Being,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ncanonically</hi> turned out to beg his Bread) whoſe <hi>Biſhoprick</hi> was ſetled on him for his <hi>Life,</hi> according to the Laws of the <hi>Realm,</hi> (which ſetled St. <hi>Peter</hi>'s in <hi>Cornhil</hi> upon you) which you have ſworn to preſerve and maintain to your power. You are not ignorant that a <hi>Biſhop,</hi> according to the <hi>Rules</hi> and <hi>Practice</hi> of the <hi>Church</hi> in all <hi>Ages,</hi> cannot warrantably be <hi>depriv'd,</hi> or <hi>depos'd,</hi> but by a <hi>Synod</hi> of <hi>Biſhops,</hi> either <hi>General,</hi> or <hi>Provincial.</hi> But was there any ſuch Method of Proceeding in the Caſe of our <hi>deprived Biſhops?</hi> It being never heard of old, that <hi>Biſhops</hi> were <hi>depoſed,</hi> or <hi>deprived</hi> by <hi>mere Lay-men</hi> (who might in<g ref="char:EOLhyphen"/>deed as <hi>legally depoſe Biſhops,</hi> as the <hi>People</hi> might an <hi>Hereditary King)</hi> no, not in the <hi>Arian Perſecution.</hi>
+            </p>
+            <p>Reflect, I beſeech You, on the diſmal <hi>Fate</hi> (as a juſt <hi>Puniſhment</hi> of the <hi>Sin,</hi> much like that of <hi>Corah)</hi> of thoſe <hi>Eccleſiaſtical, Schiſmatical</hi> 
+               <note n="*" place="margin">Two <hi>Arian</hi> Prieſts, who died miſerably and unpitied.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſurpers, Gregory</hi> and <hi>George</hi> of <hi>Cappadocia,</hi> who unjuſtly invaded the <hi>See</hi> of <hi>Alexan<g ref="char:EOLhyphen"/>dria</hi> (which was wiſely and <hi>honeſtly</hi> refus'd by <hi>Euſebius Emiſenus,</hi> when proffer'd to him) upon the <hi>depoſing</hi> of <hi>Athanaſius,</hi> the <hi>Orthodox Biſhop</hi> there, for no other Crime, than that of his <hi>Conſcience,</hi> (your <hi>deprived Biſhop's</hi> Fault) refuſing to comply with the <hi>Wickedneſs</hi> of the <hi>Time,</hi> and vigorouſly oppoſing the prevailing <hi>Arian Faction.</hi> But the <hi>Good, Conſcientious Biſhop</hi> was by the <hi>Providence</hi> of <hi>God,</hi> with <hi>Honour reſtor'd</hi> to his <hi>See,</hi> to the <hi>Joy</hi> of his <hi>Friends,</hi> (who faithfully ſtuck to him in Baniſhment) and the <hi>Shame</hi> and <hi>Confuſion</hi> of his <hi>Enemies.</hi>
+            </p>
+            <p>To enter upon the <hi>Right</hi> and <hi>Poſſeſſion</hi> of another, Is it, I pray, agreeable to the <hi>Golden Rule,</hi> which, you obſerv'd, our <hi>Saviour</hi> recommended<hi>—What<g ref="char:EOLhyphen"/>ſoever ye would that Men ſhould do to you, even ſo do ye to them.—</hi>Read and apply the <hi>Apoſtle's</hi> earneſt Expoſtulation, <hi>Rom.</hi> 2. 21, 22, &amp;c. <hi>Thou therefore which teacheſt another, teacheſt thou not thy ſelf? Thou that preacheſt a Man ſhould not ſteal, doſt thou ſteal? Thou that abhorreſt Idols, doſt thou commit Sacriledge? Thou that makeſt thy boaſt of the Law, through breaking the Law diſhonoureſt thou God? For the Name of God is blaſphemed, through you.—</hi>O <hi>Sir!</hi> Conſider what Occaſion you give to the <hi>Enemies</hi> of our <hi>Religion,</hi> to <hi>blaſpheme that worthy Name by which we are called.—</hi>Is this worthy of the <hi>Pious</hi> Dr. <hi>Beveridge,</hi> the <hi>Humble, Mortified, Self-denying, Heavenly minded</hi> Dr. <hi>Beveridge?</hi> Whom we eſteem'd a <hi>Second Chryſoſtom</hi> in our <hi>Antioch,</hi> the <hi>Or<g ref="char:EOLhyphen"/>nament</hi> of our <hi>Proteſtant City,</hi> a <hi>Main Pillar</hi> in our <hi>Church,</hi> the <hi>Beauty</hi> of our <hi>Iſrael,</hi> a <hi>burning</hi> and a <hi>ſhining Light,</hi> a <hi>bright Star</hi> in our <hi>Engliſh Firmament,</hi> and the great <hi>Reviver</hi> and <hi>Example</hi> of <hi>Primitive Piety,</hi> celebrating the <hi>bleſ<g ref="char:EOLhyphen"/>ſed Sacrament</hi> (the lively <hi>Memory</hi> of the <hi>Paſſion</hi> of our <hi>Lord,</hi> that heavenly <hi>Feaſt</hi> of <hi>Love,</hi> which <hi>thinks</hi> and does no Ill to its <hi>Neighbor)</hi> every <hi>Sun<g ref="char:EOLhyphen"/>day.</hi> And is it not ſtrange that ſo <hi>worthy</hi> a <hi>Divine,</hi> and ſo <hi>good</hi> a <hi>Chriſtian,</hi> ſhould be guilty of ſo <hi>ſcandalous,</hi> ſo <hi>ſhameful</hi> a <hi>Prevarication?</hi> But, O, <hi>how are the Mighty fallen!—</hi>How unaccountably prevalent and miſchievous are the <hi>Charms</hi> of that <hi>Sin,</hi> which the Spirit of God compares to the <note n="*" place="margin">1 Sam. 15. 23.</note> 
+               <hi>Sin of Witch<g ref="char:EOLhyphen"/>craft?</hi>
+            </p>
+            <p>
+               <hi>God Almighty</hi> open your Eyes, and your <hi>Brethren's,</hi> that you may ſee your <hi>Errors,</hi> and <hi>repent,</hi> and <hi>break off your Sins by Righteouſneſs,</hi> and ſo avert his <hi>Wrath</hi> and <hi>Judgments,</hi> both from <hi>your Selves,</hi> and theſe <hi>trembling Nations.—</hi>Which is the earneſt Prayer of,</p>
+            <closer>
+               <salute>REVEREND SIR!</salute>
+               <dateline>London, <date>May 2. 1691.</date>
+               </dateline>
+               <signed>Your Sincere and Faithful <hi>Monitor,</hi> And Hearty <hi>Well-Wiſher,</hi> &amp;c.</signed>
+            </closer>
+            <postscript>
+               <opener>
+                  <salute>SIR!</salute>
+               </opener>
+               <p>You'll pardon this plain Dealing, for which I have a Warrant from God himſelf, Lev. 19. 17. <hi>Thou ſhalt not haté thy Brother in thine heart: thou ſhalt in any wiſe rebuke thy Neighbour, and not ſuffer Sin upon him.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
